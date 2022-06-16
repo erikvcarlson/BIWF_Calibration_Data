@@ -22,8 +22,11 @@ time is the coordinated universal time
 The critical columns are: 
 
 X is the Longitude
-Y is the Latitude 
+
+Y is the Latitude
+
 ele is the Elevation of the GPS
+
 time is the coordinated universal time
 
 ## Correspondence: 
