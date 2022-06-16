@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/504270809.svg)](https://zenodo.org/badge/latestdoi/504270809)
+
 # Calibration Data for Deployed Stations Overlooking the Block Island Wind Farm
 ## Overview: 
 The files contained in this repository include the calibration data collected in the late summer of 2021. Details outlining the methods of calibration are in the accompanying paper. 
